@@ -20,6 +20,7 @@
     "resolveJsonModule": true,
     "preserveSymlinks": true,
     "outDir": "dist",
+    "noEmitOnError": true
   },
 
   "compileOnSave": false,
